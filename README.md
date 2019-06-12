@@ -31,8 +31,14 @@ The default download path for the books is set to the directory from where you r
 
 ### Creating aliases for pylibgen
 
-I'm too lazy! If open a terminal, I don't want type ``python3 pylibgen.py -a Julian Osorno``
+I'm too lazy! If I open a terminal, I don't want type ``python3 pylibgen.py -a Julian Osorno``
 
-It
+The best way for download books from Library Genesis is editing .bashrc and add three lines like this:
+
+- alias library-genesis-author='python3 /home/blackout/.library-genesis/pylibgen.py -a'
+- alias library-genesis-title='python3 /home/blackout/.library-genesis/pylibgen.py -t'
+- alias library-genesis-publisher='python3 /home/blackout/.library-genesis/pylibgen.py -p'
+
+Thats all.
 
 **Happy Reading!**
