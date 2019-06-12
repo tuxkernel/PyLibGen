@@ -1,7 +1,7 @@
 # PyLibGen
 A python3 script to download books from libgen.io
 
-### Debian Stretch install
+### Install (Debian Stretch)
 - sudo apt-get install python3 python3-bs4 python3-lxml python3-tabulate
 
 ### Usage
