@@ -1,12 +1,8 @@
 # PyLibGen
 A python3 script to download books from libgen.io
 
-### Install
-
-You need python3 to run the script. 
-To install the required dependencies:
-
-``pip install -r requirements.txt``
+### Debian Stretch install
+- sudo apt-get install python3 python3-bs4 python3-lxml python3-tabulate
 
 ### Usage
 
