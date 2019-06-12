@@ -33,11 +33,9 @@ The default download path for the books is set to the directory from where you r
 
 I'm too lazy! If I open a terminal, I don't want type ``python3 pylibgen.py -a Julian Osorno``
 
-The best way for download books from Library Genesis is editing .bashrc and add three lines like this:
+The best way for download books from Library Genesis is editing .bashrc and add one line like this:
 
-- alias library-genesis-author='python3 /home/blackout/.library-genesis/pylibgen.py -a'
-- alias library-genesis-title='python3 /home/blackout/.library-genesis/pylibgen.py -t'
-- alias library-genesis-publisher='python3 /home/blackout/.library-genesis/pylibgen.py -p'
+- alias library-genesis='python3 /home/blackout/.library-genesis/pylibgen.py'
 
 Thats all.
 
