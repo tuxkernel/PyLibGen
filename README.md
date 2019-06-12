@@ -1,6 +1,10 @@
 # PyLibGen
 A python3 script to download books from libgen.io
 
+### Screenshot
+
+![](https://i.imgur.com/FCLF4OQ.jpg)
+
 ### Install (Debian Stretch)
 - sudo apt-get install python3 python3-bs4 python3-lxml python3-tabulate
 
@@ -23,9 +27,5 @@ optional arguments:
 ### Settings
 
 The default download path for the books is set to the directory from where you run the script. You can easily tweak this and some other options changing the variable's values in ``settings.py``.
-
-### Screenshot
-
-![](https://i.imgur.com/FCLF4OQ.jpg)
 
 **Happy Reading!**
