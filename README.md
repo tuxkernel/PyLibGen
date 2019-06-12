@@ -31,8 +31,8 @@ The default download path for the books is set to the directory from where you r
 
 ### Creating aliases for pylibgen
 
-I'm too lazy! If open a terminal, I don't want type python3 pylibgen -a Julian Osorno
+I'm too lazy! If open a terminal, I don't want type 'python3 pylibgen.py -a Julian Osorno'
 
-
+It
 
 **Happy Reading!**
